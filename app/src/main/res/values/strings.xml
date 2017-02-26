@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeometryCalc</string>
+    <string name="circle">Círculo</string>
+    <string name="triangle">Triángulo Equilátero</string>
+    <string name="square">Cuadrado</string>
+    <string name="cube">Cubo</string>
+    <string name="side">Lado:</string>
+    <string name="height">Altura:</string>
+    <string name="base">Base:</string>
+    <string name="radius">Radio:</string>
+    <string name="area">Área</string>
+    <string name="labelArea">Área:</string>
+    <string name="labelperimeter">Perímetro:</string>
+    <string name="labelVolume">Volúmen:</string>
+</resources>
